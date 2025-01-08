@@ -57,7 +57,7 @@
 ## 📦 **Dependencies**  
 
 This project is powered by:  
-- **[PumpFun API](https://pumpportal.fun/data-api/)**: Fetch live cryptocurrency data.  
+- **[PumpFun API](https://pumpportal.fun/data-api/real-time/)**: Fetch live cryptocurrency data.  
 - **[ratatui](https://github.com/tui-rs-revival/ratatui)**: Create the interactive terminal interface.  
 - **[cli-candlestick-chart](https://crates.io/crates/cli-candlestick-chart)**: Generate stunning terminal-based candlestick charts.  
 
